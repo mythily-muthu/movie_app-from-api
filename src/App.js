@@ -20,7 +20,7 @@ let movie1 = {
 
 }
 
-
+console.log(movie1)
 
 const App = () => {
 
@@ -36,7 +36,7 @@ const App = () => {
 
   useEffect(() => {
 
-    searchMovies('spiderman')
+    searchMovies('thriller')
   }, []);
   return (
     <div className='app'>
