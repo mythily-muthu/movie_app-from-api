@@ -1,3 +1,3 @@
-## Responsive [Movie_Application] in React
+## Responsive [Movie_App] in React
 
-### For preview [click here](fawfwfewf)
+### For preview [click here]()
