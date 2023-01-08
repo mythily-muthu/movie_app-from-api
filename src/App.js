@@ -10,17 +10,16 @@ import './App.css';
 
 let API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=b94eaefb";
 
-let movie1 = {
+// let movie = {
 
-  "Title": "Masters of Horror",
-  "Year": "2005–2007",
-  "imdbID": "tt0448190",
-  "Type": "series",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNzZlMzIyY2YtOTI0My00MmM2LWIzZDktYWExYzYxMTIwNDNiXkEyXkFqcGdeQXVyNjU2NTIzNDE@._V1_SX300.jpg"
+//   "Title": "Masters of Horror",
+//   "Year": "2005–2007",
+//   "imdbID": "tt0448190",
+//   "Type": "series",
+//   "Poster": "https://m.media-amazon.com/images/M/MV5BNzZlMzIyY2YtOTI0My00MmM2LWIzZDktYWExYzYxMTIwNDNiXkEyXkFqcGdeQXVyNjU2NTIzNDE@._V1_SX300.jpg"
 
-}
+// }
 
-console.log(movie1)
 
 const App = () => {
 
