@@ -50,7 +50,7 @@ const App = () => {
         (
           <div className="container">
             {movies.map((movie) => (
-              <MovieCard movie={movie} />
+              <MovieCard movie={movie} key={movie.index} />
             ))}
           </div>
         ) : (
